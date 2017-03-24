@@ -1,5 +1,5 @@
 # SAS
-Targeted Cross-Sell campaign for Time Deposit A/Cs of Wells Fargo
+Targeted Cross-Sell Marketing Campaign for Time Deposit A/Cs of Wells Fargo
 
 OBJECTIVES
 #PHASE1: Data Cleansing and Merging
