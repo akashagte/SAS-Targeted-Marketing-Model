@@ -1,7 +1,7 @@
 /*This program reads in d*/
 libname storage '/folders/myfolders/';
 
-proc import datafile='/folders/myfolders/Practise/cd.csv' 
+proc import datafile='/folders/myfolders/cd.csv' 
 	out=resp_data dbms=csv replace;
 run;
 
