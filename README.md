@@ -23,3 +23,9 @@ OBJECTIVES
 
 RESULT:
 Forecasted 73% sales from interactions with only 48% of segmented consumer sample
+
+
+
+
+
+**For Security Purposes dataset has not been shared
