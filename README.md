@@ -21,5 +21,5 @@ OBJECTIVES
 4. Run Linear Regression algorithm with important Predictors, to explain the results to the Business entities
 
 
-RESULT
+RESULT:
 Forecasted 73% sales from interactions with only 48% of segmented consumer sample
