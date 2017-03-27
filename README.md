@@ -5,9 +5,10 @@ Targeted Cross-Sell Marketing Campaign for Time Deposit A/Cs of Wells Fargo
 1. Merge US Census Zipcode data for Texas with FDIC data for branch-level details of Wells Fargo
 2. Clean the merged dataset by analysing and deleting missing records
 
-#PHASE2: Segmentation
+#PHASE2: Segmentation & Clustering
 1. Segregate highly correlated attributes (Pearson factor, r > .8), and eliminate one with less discrimination in samples
 2. Detect themes in the dataset for the remaining attributes (by testing different combinations of nfactor, fuzz and mineigen)
+3. Generate Clusters to segment Customers as per Socio-Ecomnomic conditions
 
 #PHASE3: Variable Conversion
 1. Convert Nominal variables to Binary and set Ordinal variables to middle of the range values
